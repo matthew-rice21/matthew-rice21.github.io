@@ -1,1 +1,25 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Matt's programing portfolio</title>
+    </head>
+    <body>
+        <center>
+<img src="csc106_banner.jpg">
+      </center>
+        <center>
+        <table>
+            <thead>
+                <tr>
+                    <th><img src="home tab.png"></th>
+                    <th><img src="javascripts tab.png"></th>
+                    <th><img src="about me tab.png"></th>
+                </tr>
+            </thead>
+        </table>
+        </center>
+       <h1>matt's very first web page!</h1>
+    <p>This website will show my projects that i worked on this semester. It will include items such as games that i programed with javascript<br>and also information about myself!</p>
+    </body>
+</html>
